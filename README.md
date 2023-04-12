@@ -1,12 +1,7 @@
-<!-- [![MasterHead](https://user-images.githubusercontent.com/67001521/231394118-6b353292-9b48-47fa-8ba5-c32e05b7a64c.mp4)]() -->
-
-![WEB (2)](https://user-images.githubusercontent.com/67001521/231394892-eb83edbe-3513-4f82-a606-0496b2ba645d.gif)
-
+![MasterHead](https://user-images.githubusercontent.com/67001521/231394892-eb83edbe-3513-4f82-a606-0496b2ba645d.gif)
 <h1 align="center">Hi 👋, I'm Arpit Jain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
-![fstcak](https://user-images.githubusercontent.com/67001521/231394813-e2679c50-6e6e-4fb1-8a76-208c3c665245.gif)
-
+(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/67001521/231394813-e2679c50-6e6e-4fb1-8a76-208c3c665245.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitjain4454&label=Profile%20views&color=0e75b6&style=flat" alt="arpitjain4454" /> </p>
 
