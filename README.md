@@ -1,9 +1,6 @@
-[![MasterHead](
 
 ![WEB (1)](https://user-images.githubusercontent.com/67001521/231390811-c6d9f6fb-ddbe-4208-94c4-5bc9d9e8426a.gif)
 
-
-)]
 <h1 align="center">Hi 👋, I'm Arpit Jain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
