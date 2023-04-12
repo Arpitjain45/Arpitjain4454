@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **SpringBoot,**
+- 💬 Ask me about **SpringBoot, Java, Oops Concepts, Mysql**
 
 - 📫 How to reach me **arpitpjain4454@gmail.com**
 
